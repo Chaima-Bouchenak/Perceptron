@@ -17,8 +17,11 @@ variable number of artificial neurons, which makes up several layers of the neur
 This project has 2 dependencies.
 
 **numpy** for the maths implementation and writing the algorithms
+
 **Scikit-learn** for the data generation and testing.
+
 **Matplotlib** for the plotting.
+
 **Pandas** for loading data.
 
 You can install these using the command below!
