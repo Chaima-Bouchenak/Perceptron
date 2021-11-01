@@ -23,8 +23,8 @@ This project has 2 dependencies.
 
 You can install these using the command below!
 
-# Linux or MacOS
+## Linux or MacOS
 $ pip3 install -r requirements.txt
 
-# Windows
+## Windows
 $ pip install -r requirements.txt
