@@ -8,10 +8,14 @@ and uses binary threshold as its activation function. it’s good for tasks wher
 want to predict if an input belongs in one of two categories, based on it’s features
 and the features of inputs that are known to belong to one of those two categories.
 
+Implemented and used on the [Pima Indians Diabeties Data set](https://www.kaggle.com/uciml/pima-indians-diabetes-database) to predict whether or not the patients in the dataset have diabetes.
+
 ### The Multilayers perceptron (MLP),
 includes several hidden layers, and allows to produce a non-linear separator. It 
 consists of several inputs and outputs. It is a direct propagation network with a 
 variable number of artificial neurons, which makes up several layers of the neural system.
+
+Implemented and used on the [MNIST Data Set](http://yann.lecun.com/exdb/mnist/) of handwritten digits.
 
 ## Installation and usage.
 This project has 2 dependencies.
